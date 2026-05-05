@@ -1,1 +1,8 @@
-# praktikum-devops
+\# Praktikum DevOps
+
+
+
+Nama: Musa Okta Wijaya  
+
+Kelas: TI
+
